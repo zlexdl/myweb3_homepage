@@ -1,0 +1,342 @@
+{
+  "hero": {
+    "title": "3am Club",
+    "subtitle": {
+      "cn": "麻音俱乐部  ：一群加密世界的追随者创立的社区",
+      "en": "A community found by loyal crypto investor"
+    },
+    "bg_image": "assets/images/slide_01_0.jpg"
+  },
+  "about": {
+    "intro": {
+      "cn": "3am Club又叫麻音俱乐部，是一个由加密追随者共同创立的社群。\n3am Club社群是华语加密社群最具潜力的社群之一，现在3am Club已经集聚了华语加密圈100多位一线KOL，DiFi Degens、NFT 收藏家、项目Mod，优质赛道的投研专员，以及粉丝辐射总量超百万的海量加密爱好者。",
+      "en": "3am Club, also known as Mayin club，is  a community co-founded by crypto followers.\nWe have gathered more that 100 crypto KOLs, with over 1 million followers including Defi degens, NFT collector, project  mods, researchers in the crypto field."
+    },
+    "stats": [
+      {
+        "value": "37k+",
+        "label": {
+          "cn": "推特粉丝",
+          "en": "Twitter Followers"
+        }
+      },
+      {
+        "value": "12k+",
+        "label": {
+          "cn": "Discord成员",
+          "en": "Discord Members"
+        }
+      },
+      {
+        "value": "100+",
+        "label": {
+          "cn": "KOL",
+          "en": "KOLs"
+        }
+      },
+      {
+        "value": "1M+",
+        "label": {
+          "cn": "辐射用户",
+          "en": "Reach"
+        }
+      }
+    ],
+    "links": {
+      "website": "https://my3am.xyz",
+      "twitter": "https://twitter.com/my3amclub",
+      "discord": "http://discord.gg/VFt89f7Snp",
+      "telegram": "https://t.me/my3amclub"
+    },
+    "images": [
+      "assets/images/slide_04_0.jpg",
+      "assets/images/slide_04_1.jpg",
+      "assets/images/slide_04_2.jpg"
+    ]
+  },
+  "services": [
+    {
+      "title": {
+        "cn": "项目推动",
+        "en": "Project Promotion"
+      },
+      "desc": {
+        "cn": "参与多个项目的大使，来帮项目提供建议以及制定推广方案",
+        "en": "Act as ambassadors to provide advice and promotion plans."
+      }
+    },
+    {
+      "title": {
+        "cn": "项目媒介",
+        "en": "Media Relations"
+      },
+      "desc": {
+        "cn": "运用3amClub的资源优势，帮助优质项目，完成私募/融资情况",
+        "en": "Help quality projects with fundraising using our resources."
+      }
+    },
+    {
+      "title": {
+        "cn": "媒体衔接",
+        "en": "Media Connection"
+      },
+      "desc": {
+        "cn": "帮项目方以及媒体做衔接，寻找到适合的媒体以及KOL",
+        "en": "Connect projects with suitable media and KOLs."
+      }
+    },
+    {
+      "title": {
+        "cn": "活动推广",
+        "en": "Event Marketing"
+      },
+      "desc": {
+        "cn": "通过社区媒体宣发，KOL转发抽奖，AMA，以及表单抽奖等形式",
+        "en": "Promotion via community media, KOL retweets, AMAs, lucky draws."
+      }
+    },
+    {
+      "title": {
+        "cn": "项目代运营",
+        "en": "Operation"
+      },
+      "desc": {
+        "cn": "根据项目特点，定制独有的运营方案 (DC, Twitter等)",
+        "en": "Customized operation plans for Discord, Twitter, etc."
+      }
+    }
+  ],
+  "team": [
+    {
+      "name": "刘社长.eth",
+      "role": "Core Team",
+      "desc": {
+        "cn": "3amClub创始人，操盘上百款app流量数据深耕Gamefi赛道，专注链游项目及投研",
+        "en": "3amClub创始人，操盘上百款app流量数据深耕Gamefi赛道，专注链游项目及投研"
+      },
+      "image": "assets/images/kol/liushezhang.png",
+      "twitter": "https://x.com/liushezhang",
+      "followers": "70K+"
+    },
+    {
+      "name": "暴躁的希爷丶",
+      "role": "Core Team",
+      "desc": {
+        "cn": "Bayc持有者，投资人，创业者，web3工作室创始人，专注最新项目机会。",
+        "en": "Bayc持有者，投资人，创业者，web3工作室创始人，专注最新项目机会。"
+      },
+      "image": "assets/images/kol/yaking168.png",
+      "twitter": "https://x.com/yaking168",
+      "followers": "57K+"
+    },
+    {
+      "name": "sanyi.eth",
+      "role": "Core Team",
+      "desc": {
+        "cn": "Web3 KOL，多个Web3项目的大使、推动者，互联网大厂运营管理",
+        "en": "Web3 KOL，多个Web3项目的大使、推动者，互联网大厂运营管理"
+      },
+      "image": "assets/images/kol/sanyi.png",
+      "twitter": "https://x.com/sanyi_eth_",
+      "followers": "25.8K+"
+    },
+    {
+      "name": "Calman",
+      "role": "Core Team",
+      "desc": {
+        "cn": "Web3探寻者，专注于Web3项目用户增长；社区建设、品牌塑造",
+        "en": "Web3探寻者，专注于Web3项目用户增长；社区建设、品牌塑造"
+      },
+      "image": "assets/images/kol/Calman.png",
+      "twitter": "https://x.com/Calman16910515",
+      "followers": "75K+"
+    },
+    {
+      "name": "超级罗杰斯",
+      "role": "Core Team",
+      "desc": {
+        "cn": "15年+类金融行业投资者，8年+币圈交易员拥有成熟的投资和量化交易团队",
+        "en": "15年+类金融行业投资者，8年+币圈交易员拥有成熟的投资和量化交易团队"
+      },
+      "image": "assets/images/kol/superogers1.png",
+      "twitter": "https://x.com/superogers1",
+      "followers": "28K+"
+    },
+    {
+      "name": "雪球",
+      "role": "Core Team",
+      "desc": {
+        "cn": "链游领域专家，深耕链游赛道，专注链游早期项目投研及增长运营。",
+        "en": "链游领域专家，深耕链游赛道，专注链游早期项目投研及增长运营。"
+      },
+      "image": "assets/images/kol/xueqiu88.jpg",
+      "twitter": "https://x.com/xueqiu88",
+      "followers": "90K+"
+    },
+    {
+      "name": "磊哥",
+      "role": "Core Team",
+      "desc": {
+        "cn": "3am Club技术总监  日本某大型交易平台技术专家,专注空投，NFT方向",
+        "en": "3am Club技术总监  日本某大型交易平台技术专家,专注空投，NFT方向"
+      },
+      "image": "assets/images/kol/zlexdl.png",
+      "twitter": "https://x.com/zlexdl",
+      "followers": "86K+"
+    },
+    {
+      "name": "lilili.eth",
+      "role": "Core Team",
+      "desc": {
+        "cn": "资深社交媒体影响者，NFT早期发倔与扶持，擅长增加项目品牌影响力",
+        "en": "资深社交媒体影响者，NFT早期发倔与扶持，擅长增加项目品牌影响力"
+      },
+      "image": "assets/images/kol/dashutiaozi.jpg",
+      "twitter": "https://x.com/dashutiaozi",
+      "followers": "119K+"
+    },
+    {
+      "name": "charles",
+      "role": "Core Team",
+      "desc": {
+        "cn": "专注defi类项目，隐私，应用等赛道，撸毛交互狂热者",
+        "en": "专注defi类项目，隐私，应用等赛道，撸毛交互狂热者"
+      },
+      "image": "assets/images/kol/charles48011843.png",
+      "twitter": "https://x.com/charles48011843",
+      "followers": "117K+"
+    },
+    {
+      "name": "捡个大西瓜",
+      "role": "Core Team",
+      "desc": {
+        "cn": "千万英语学习app联合创始人，基金定投研究者，目前专注社区建设与新项目挖掘，以及定投在区块链投资的应用。",
+        "en": "千万英语学习app联合创始人，基金定投研究者，目前专注社区建设与新项目挖掘，以及定投在区块链投资的应用。"
+      },
+      "image": "assets/images/kol/Uncle_Simon25.png",
+      "twitter": "https://x.com/Uncle_Simon25",
+      "followers": "17K+"
+    },
+    {
+      "name": "大树",
+      "role": "Core Team",
+      "desc": {
+        "cn": "3am Club艺术总监、官推负责人，互联网公司品牌设计负责人。NFT创作 / 收藏 / 投研",
+        "en": "3am Club艺术总监、官推负责人，互联网公司品牌设计负责人。NFT创作 / 收藏 / 投研"
+      },
+      "image": "assets/images/kol/ultree_.png",
+      "twitter": "https://x.com/ultree_",
+      "followers": "17K+"
+    },
+    {
+      "name": "Rick",
+      "role": "Core Team",
+      "desc": {
+        "cn": "3am Club商务负责人 律师lawyer Web3法律服务提供者",
+        "en": "3am Club商务负责人 律师lawyer Web3法律服务提供者"
+      },
+      "image": "assets/images/kol/xiaoxiaozhangsm.png",
+      "twitter": "https://x.com/xiaoxiaozhangsm",
+      "followers": "17K+"
+    },
+    {
+      "name": "Oeuia",
+      "role": "Core Team",
+      "desc": {
+        "cn": "3am club商务经理，专注于Web3空&NFT&Gamefi，发掘早期优质项目",
+        "en": "3am club商务经理，专注于Web3空&NFT&Gamefi，发掘早期优质项目"
+      },
+      "image": "assets/images/kol/oeuia_eth.png",
+      "twitter": "https://x.com/oeuia_eth",
+      "followers": "7K+"
+    }
+  ],
+  "cases": [
+    {
+      "title": {
+        "cn": "Galaxy Brain",
+        "en": "Galaxy Brain Case"
+      },
+      "images": [
+        "assets/images/slide_16_0.jpg",
+        "assets/images/slide_16_1.jpg",
+        "assets/images/slide_16_2.jpg",
+        "assets/images/slide_16_3.jpg",
+        "assets/images/slide_16_4.jpg",
+        "assets/images/slide_16_5.jpg",
+        "assets/images/slide_16_6.jpg",
+        "assets/images/slide_16_7.jpg",
+        "assets/images/slide_16_8.jpg",
+        "assets/images/slide_16_9.jpg",
+        "assets/images/slide_16_10.jpg",
+        "assets/images/slide_16_11.jpg",
+        "assets/images/slide_16_12.jpg",
+        "assets/images/slide_16_13.jpg",
+        "assets/images/slide_16_14.jpg",
+        "assets/images/slide_16_15.jpg",
+        "assets/images/slide_16_16.jpg",
+        "assets/images/slide_16_17.jpg",
+        "assets/images/slide_16_18.jpg",
+        "assets/images/slide_16_19.jpg",
+        "assets/images/slide_16_20.jpg"
+      ],
+      "desc": {
+        "cn": "Reference case 1\n\n案例参考一\n\nGalaxy Brain作为银河计划中重要的部分，社群KOL紧密跟随项目运营的不同阶段，并对用户所关注的问题，提供建设性意见帮助产品功能上进行更新迭代。并持续不断地在社交平台给予曝光，给项目带来源源不断的流量以及关注度，对项目的发展起着关键性作用。\n\nGalaxy Brain",
+        "en": "Case 1\n\nGalaxyBrain of @ProjectGalaxyHQ\nCyber Guardian of @CyberConnectHQ\ndreamweaver of @P12 \nguardian of @carv\n\nsanyi\n\nCalman\n\n@ylm5573\n\n@Calman16910515\n\nTwitter Followers：75k+\n\nTwitter Followers：116k+\n\nGalaxyBrain of @ProjectGalaxyHQ ,\nDoorman of @CyberConnectHQ ,\nPioneer of @ShowMeNFT ,\nContributor of @via_protocol / @vestafinance / @layerswap /@atem_network / @prysm_xyz / @betterticket / @optyfi / @WombatExchange\n\nMost KOLs have a lot experience in early project constructions, brand building, product operation, project promotion, crisis management, etc."
+      }
+    },
+    {
+      "title": {
+        "cn": "Ultiverse",
+        "en": "Ultiverse Case"
+      },
+      "images": [
+        "assets/images/slide_17_0.jpg",
+        "assets/images/slide_17_1.jpg"
+      ],
+      "desc": {
+        "cn": "案例参考二\n\nBinance重点孵化的3A链游\n\n3am Club是UItiverse 3A链游项目合作的首个华人社区，项目方由币安实验室重点孵化，获得红杉资本等机构共1000万融资，在跟3am Club 负责了UItiverse NFT寿命的推广合作，目前持续深度合作中。\n\nReference case 2",
+        "en": "Case 1\n\nGalaxy Brain is an important part of the Galaxy Plan. Community KOLs closely follow the different stages of project operation, and provide constructive opinions on issues that users are concerned about to help update and iterate on product functions. It plays a key role in the development of the project.\n\nGalaxy Brain"
+      }
+    },
+    {
+      "title": {
+        "cn": "CryptoSimeji",
+        "en": "CryptoSimeji Case"
+      },
+      "images": [
+        "assets/images/slide_20_0.jpg",
+        "assets/images/slide_20_1.jpg"
+      ],
+      "desc": {
+        "cn": "案例参考三\n\nReference case 3\n\n3am Club 共联合50余名一线的KOL为CryptoSimeji做了转发抽奖的推广方案，整个项目参与转发数据总量10000+，整体曝光度达百万。CryptoSimeji汇聚了大量的关注度，以及话题度成为整个华语项目的焦点。\n\n百度的日本子公司推出的日本国民级输入法 Simeji App 的 IP 小蘑菇作为原型，创造的像素风小蘑菇 NFT 头像，3amClub负责了该项目推特的推广，取得了巨大的反响。\n\nCryptoSimeji\n\n合作成果",
+        "en": "3am VIP pass holders get to mint specific role to get a better involvement in the project.\n\n02\n\nWe established a player group. And invite people who obtained the whitelist  to share the strategies of game. Users in this group late purchased a large number of Electric Sheep NFT.\n\n03\n\nCase 2"
+      }
+    }
+  ],
+  "contact": {
+    "text": {
+      "cn": "3am Club 拥有一群追随加密世界的Degens... 感谢您愿意了解3am Club",
+      "en": "3am Club has a group of Degens following the crypto world... Thank you for knowing us."
+    },
+    "email": "my3amclub@gmail.com",
+    "twitter": "@My3amclub",
+    "bd": "@xiaoxiaozhangsm"
+  },
+  "gallery": [
+    "assets/images/slide_26_0.jpg",
+    "assets/images/slide_26_1.jpg",
+    "assets/images/slide_26_2.jpg",
+    "assets/images/slide_26_3.jpg",
+    "assets/images/slide_26_4.jpg",
+    "assets/images/slide_26_5.jpg",
+    "assets/images/slide_26_6.jpg",
+    "assets/images/slide_26_7.jpg",
+    "assets/images/slide_26_8.jpg",
+    "assets/images/slide_26_9.jpg",
+    "assets/images/slide_26_10.jpg",
+    "assets/images/slide_26_11.jpg",
+    "assets/images/slide_26_12.jpg",
+    "assets/images/slide_26_13.jpg"
+  ]
+}

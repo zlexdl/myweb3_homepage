@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3am Club | Web3 Community</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Noto+Sans+SC:wght@300;400;700&display=swap" rel="stylesheet">
+    <!-- AOS Animation Library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-content">
+            <a href="#" class="logo-link">
+                <img src="assets/images/logo.png" alt="3am Club" class="logo-img">
+            </a>
+            <div class="nav-links">
+                <a href="#hero" data-i18n="nav.home">首页</a>
+                <a href="#about" data-i18n="nav.about">关于</a>
+                <a href="#services" data-i18n="nav.services">服务</a>
+                <a href="#team" data-i18n="nav.team">团队</a>
+                <a href="#contact" data-i18n="nav.contact">联系</a>
+            </div>
+            <div class="nav-controls">
+                <button id="lang-toggle" class="btn-glass">EN / 中文</button>
+                <button id="menu-toggle" class="mobile-only">☰</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu">
+        <a href="#hero" data-i18n="nav.home">首页</a>
+        <a href="#about" data-i18n="nav.about">关于</a>
+        <a href="#services" data-i18n="nav.services">服务</a>
+        <a href="#team" data-i18n="nav.team">团队</a>
+        <a href="#contact" data-i18n="nav.contact">联系</a>
+    </div>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="hero" class="hero-section">
+            <div class="hero-bg"></div>
+            <div class="hero-content" data-aos="fade-up">
+                <h1 id="hero-title">3am Club</h1>
+                <p id="hero-subtitle" class="subtitle">Loading...</p>
+                <div class="hero-cta">
+                    <a href="#contact" class="btn-primary" data-i18n="hero.cta">加入我们</a>
+                    <a href="#about" class="btn-secondary" data-i18n="hero.more">了解更多</a>
+                </div>
+            </div>
+            <div class="scroll-indicator">↓</div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="section-padding">
+            <div class="container">
+                <h2 class="section-title" data-aos="fade-up" data-i18n="section.about">关于我们</h2>
+                <div class="about-grid">
+                    <div class="about-text" data-aos="fade-right">
+                        <p id="about-intro">Loading...</p>
+                        <div class="social-links" id="about-links"></div>
+                    </div>
+                    <div class="about-stats" id="stats-grid" data-aos="fade-left">
+                        <!-- Stats injected here -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Services Section -->
+        <section id="services" class="section-padding bg-darker">
+            <div class="container">
+                <h2 class="section-title" data-aos="fade-up" data-i18n="section.services">我们的服务</h2>
+                <div class="services-grid" id="services-grid">
+                    <!-- Services injected here -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Team Section -->
+        <section id="team" class="section-padding">
+            <div class="container">
+                <h2 class="section-title" data-aos="fade-up" data-i18n="section.team">核心团队</h2>
+                <div class="team-grid" id="team-grid">
+                    <!-- Team injected here -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Cases Section -->
+        <section id="cases" class="section-padding bg-darker">
+            <div class="container">
+                <h2 class="section-title" data-aos="fade-up" data-i18n="section.cases">成功案例</h2>
+                <div class="cases-carousel" id="cases-container">
+                    <!-- Cases injected here -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Gallery/Invest Section -->
+        <section id="invest" class="section-padding">
+            <div class="container">
+                <h2 class="section-title" data-aos="fade-up" data-i18n="section.invest">生态与投资</h2>
+                <div class="gallery-grid" id="gallery-grid">
+                    <!-- Gallery injected here -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section-padding contact-section">
+            <div class="container text-center">
+                <h2 class="section-title" data-i18n="section.contact">联系我们</h2>
+                <div class="contact-box" data-aos="zoom-in">
+                    <p id="contact-text" class="mb-4"></p>
+                    <div class="contact-info" id="contact-info"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 3am Club. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

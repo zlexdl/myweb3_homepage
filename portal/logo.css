@@ -1,0 +1,22 @@
+/* Logo Updates */
+.logo-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo-img {
+    height: 40px; /* Adjust based on nav height */
+    width: auto;
+    transition: transform 0.3s;
+}
+
+.logo-img:hover {
+    transform: scale(1.05);
+}
+
+/* Adjust nav-content slightly if needed to vertically center image */
+.nav-content {
+    align-items: center;
+}
+
